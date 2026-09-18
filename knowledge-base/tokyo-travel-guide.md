@@ -66,3 +66,9 @@ A quick primer for a first trip to Tokyo, Japan's capital and one of the largest
 - **Kamakura:** Great Buddha statue and seaside temples, about an hour by train.
 - **Nikko:** UNESCO-listed shrines and mountain scenery, about two hours away.
 - **Hakone:** Hot springs and Mount Fuji views, reachable in roughly 90 minutes.
+
+## Emergency numbers
+
+- **Police:** 110
+- **Fire and ambulance:** 119
+- **Japan Visitor Hotline (24 hours, English):** 050-3816-2787
