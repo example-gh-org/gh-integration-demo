@@ -4,7 +4,11 @@ Demo of publishing a markdown knowledge base as a website with GitHub Pages, fed
 
 - `knowledge-base/` holds the markdown source, one file per article, in the same folder layout as the Edra knowledge base it mirrors.
 - `.github/workflows/publish-knowledge-base.yml` runs when a change to `knowledge-base/` lands on `main` (a merged pull request, or a sync commit from Edra). It converts each markdown file to HTML with pandoc and deploys the result to GitHub Pages.
-- `scripts/build-site.sh` is the build step. Run it locally with pandoc and python3 installed to preview the output in `_site/`.
+- `scripts/build_site.py` is the build step: a standard-library Python script that turns each article into a page with shared navigation, breadcrumbs, an on-page table of contents, and previous/next links, plus an index of sections. `scripts/style.css` is the look. Run it locally with pandoc and python3 installed to preview the output in `_site/`:
+
+  ```
+  python3 scripts/build_site.py knowledge-base _site
+  ```
 
 ## How content gets here
 
