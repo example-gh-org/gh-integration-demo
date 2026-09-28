@@ -27,6 +27,9 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v5
+        with:
+          # Full history so each page can show when its article last changed.
+          fetch-depth: 0
 
       - name: Install pandoc
         run: |
@@ -34,7 +37,7 @@ jobs:
           sudo apt-get install -y -q pandoc
 
       - name: Build HTML from markdown
-        run: scripts/build-site.sh knowledge-base _site
+        run: python3 scripts/build_site.py knowledge-base _site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
