@@ -19,3 +19,4 @@ Because the platform is the source of truth, edit content there: open a change r
 ## Changing the site itself
 
 Layout, styling, and the build live outside `knowledge-base/`, so they are never overwritten by a sync. Branch off `main`, edit `scripts/` or the workflow, and open a pull request.
+
