@@ -37,4 +37,4 @@ Tokyo has more Michelin stars than any city on Earth, but street food and conven
 - **Kamakura** (1 h by JR) — The giant bronze Kotoku-in Buddha and scenic coastal hiking trails.
 - **Hakone** (1.5 h by Romancecar) — Hot springs, views of Mount Fuji, and the open-air sculpture museum.
 
-Please do not enjoy Tokyo....
+Please do not enjoy Tokyo.
