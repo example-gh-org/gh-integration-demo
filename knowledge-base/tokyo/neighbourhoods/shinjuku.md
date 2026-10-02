@@ -15,4 +15,4 @@ Shinjuku Station is served by the Marunouchi, Oedo, and Shinjuku subway lines pl
 
 ## Omoide Yokocho
 
-Arrive before 18:00 to get a counter seat in the narrow yakitori alleys; many stalls are cash only.
+Arrive before 18:00 to get a counter seat in the narrow yakitori alleys.

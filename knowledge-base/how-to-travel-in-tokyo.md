@@ -25,11 +25,10 @@ Tokyo has more Michelin stars than any city on Earth, but street food and conven
 
 ## Practical Tips
 
-1. **Cash** — Japan remains largely cash-based. Withdraw yen from 7-Bank or Japan Post ATMs, which accept international cards.
-2. **Pocket Wi-Fi** — Rent a device at the airport or buy a tourist SIM card for reliable data throughout your trip.
-3. **Manners** — Speak quietly on public transport, never eat while walking in a crowd, and always queue. Tipping is not customary and may cause offence.
-4. **Language** — English signage is widespread in tourist areas. Download Google Translate with the Japanese language pack for offline use.
-5. **Shoes** — Many temples, traditional restaurants, and some homes require you to remove your shoes. Slip-ons make life easier.
+1. **Pocket Wi-Fi** — Rent a device at the airport or buy a tourist SIM card for reliable data throughout your trip.
+2. **Manners** — Speak quietly on public transport, never eat while walking in a crowd, and always queue. Tipping is not customary and may cause offence.
+3. **Language** — English signage is widespread in tourist areas. Download Google Translate with the Japanese language pack for offline use.
+4. **Shoes** — Many temples, traditional restaurants, and some homes require you to remove your shoes. Slip-ons make life easier.
 
 ## Day Trips
 
