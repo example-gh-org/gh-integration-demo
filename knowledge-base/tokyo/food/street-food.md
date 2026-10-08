@@ -11,4 +11,4 @@ Street food in Tokyo is clustered around temple approaches, festivals, and a few
 
 ## Where to Find It
 
-Nakamise-dori in Asakusa and the lanes around Ueno are reliable.
+Nakamise-dori in Asakusa and the lanes around Ueno are reliable. Many stalls are cash-only, so carry coins.
